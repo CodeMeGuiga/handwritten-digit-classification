@@ -4,8 +4,8 @@ Builds a machine learning pipeline to classify handwritten digit images (0-9), w
 
 ## Contents
 
-- `notebook.ipynb` — data cleaning, preprocessing, model training and evaluation.
-- `report.pdf` — write-up of the approach and results.
+- `notebook.ipynb`: data cleaning, preprocessing, model training and evaluation.
+- `report.pdf`: write-up of the approach and results.
 
 ## Running it
 
